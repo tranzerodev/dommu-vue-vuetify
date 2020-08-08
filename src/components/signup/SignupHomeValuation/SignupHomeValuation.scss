@@ -1,0 +1,62 @@
+.homeValuationBox {
+  width: 600px !important;
+  max-width: 100% !important;
+}
+.centerValue {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  margin: 10% 0;
+  align-items: center;
+  font-size: 66px;
+  font-weight: bold;
+  color: #000;
+  @media only screen and (max-width: 1200px){
+    font-size: 56px;
+  }
+  @media only screen and (max-width: 900px){
+    font-size: 42px;
+  }
+}
+
+.centerValue span {
+  padding-bottom: 5px;
+  border-bottom: #49d586 solid 3px;
+}
+
+.closeModalBtn {
+  margin-left: auto;
+}
+.value-info-icon {
+  .v-icon{
+    line-height: 50px;
+    @media only screen and (max-width: 1200px){
+      line-height: 40px;
+      font-size: 20px
+    }
+    @media only screen and (max-width: 900px){
+      line-height: 30px;
+      font-size: 15px
+    }
+    @media only screen and (max-width: 600px){
+      line-height: 25px;
+      font-size: 15px;
+    }
+  }
+}
+
+.address-description {
+  font-size: 20.4px;
+}
+
+@media only screen and (max-width: 600px) {
+  .centerValue {
+    font-size: 33px;
+  }
+
+  .address-description {
+    padding-bottom: 10px;
+  }
+}

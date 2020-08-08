@@ -1,0 +1,60 @@
+.sign-up-stepper-container {
+  background: transparent !important;
+  border: none;
+  box-shadow: unset;
+}
+
+.sign-up-stepper-header {
+  background: #fff;
+  border-radius: 19.2px;
+  box-shadow: 0 33px 28px 0 rgba(223, 223, 239, 0.25);
+  padding-left: 10%;
+  padding-right: 10%;
+  .v-stepper__step--active {
+    span{
+      color: #49d586!important;
+      text-shadow: 0 0 0px #49d586;
+    }
+    
+  }
+  margin-left: 200px;
+  margin-right: 200px;
+  @media only screen and (max-width: 1400px) {
+    margin-left: 140px;
+    margin-right: 140px;
+  }
+  @media only screen and (max-width: 1100px) {
+    margin-left: 90px;
+    margin-right: 90px;
+  }
+  @media only screen and (max-width: 600px) {
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  @media only screen and (max-width: 400px) {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  @media only screen and (max-width: 360px) {
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 4px;
+    padding-right: 4px;
+    .v-stepper__step {
+      font-size: 6px;
+      padding-left: 4px !important;
+    }
+  }
+}
+
+.sign-up-stepper-section {
+  border-radius: 57.6px 19.2px 19.2px 19.2px;
+  box-shadow: 0 30px 25px 0 rgba(223, 223, 239, 0.5);
+  background-color: #ffffff;
+  padding: 75px 80px 30px;
+  overflow: hidden;
+}
+.stepper__wrapper{
+  position: relative;
+  margin-bottom: 20px;
+}

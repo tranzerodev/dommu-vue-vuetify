@@ -1,0 +1,209 @@
+{
+    "bedroomsList": [
+        {
+            "value": "1",
+            "name": "1 bedroom"
+        },
+        {
+            "value": "2",
+            "name": "2 bedrooms"
+        },
+        {
+            "value": "3",
+            "name": "3 bedrooms"
+        },
+        {
+            "value": "4",
+            "name": "4 bedrooms"
+        },
+        {
+            "value": "5",
+            "name": "5 bedrooms"
+        },
+        {
+            "value": "6",
+            "name": "6 bedrooms"
+        },
+        {
+            "value": "7",
+            "name": "7 bedrooms"
+        },
+        {
+            "value": "8",
+            "name": "8 bedrooms"
+        },
+        {
+            "value": "9",
+            "name": "9 bedrooms"
+        },
+        {
+            "value": "10",
+            "name": "10 or more bedrooms"
+        }
+    ],
+    "receptionsList": [
+        {
+            "value": "1",
+            "name": "1 reception room"
+        },
+        {
+            "value": "2",
+            "name": "2 reception rooms"
+        },
+        {
+            "value": "3",
+            "name": "3 reception rooms"
+        },
+        {
+            "value": "4",
+            "name": "4 reception rooms"
+        },
+        {
+            "value": "5",
+            "name": "5 reception rooms"
+        },
+        {
+            "value": "6",
+            "name": "6 or more reception rooms"
+        }
+    ],
+    "propertyTypesList": [
+        {
+            "header": "House"
+        },
+        {
+            "value": "detached house",
+            "name": "Detached house"
+        },
+        {
+            "value": "semi detached house",
+            "name": "Semi-detached house"
+        },
+        {
+            "value": "end terrace house",
+            "name": "End terrace house"
+        },
+        {
+            "value": "mid terrace house",
+            "name": "Mid terrace house"
+        },
+        {
+            "divider": true
+        },
+        {
+            "header": "Flat"
+        },
+        {
+            "value": "purpose built flat",
+            "name": "Purpose built flat"
+        },
+        {
+            "value": "converted flat",
+            "name": "Converted flat"
+        },
+        {
+            "divider": true
+        },
+        {
+            "header": "Bungalow"
+        },
+        {
+            "value": "detached bungalow",
+            "name": "Detached bungalow"
+        },
+        {
+            "value": "semi detached bungalow",
+            "name": "Semi-detached bungalow"
+        },
+        {
+            "value": "end terrace bungalow",
+            "name": "End terrace bungalow"
+        },
+        {
+            "value": "mid terrace bungalow",
+            "name": "Mid terrace bungalow"
+        }
+    ],
+    "estimateChangeReasonList": [
+        {
+            "value": "extenstion",
+            "name": "Extension"
+        },
+        {
+            "value": "loftConversion",
+            "name": "Loft conversion"
+        },
+        {
+            "value": "renovation",
+            "name": "Renovations"
+        },
+        {
+            "value": "driveway",
+            "name": "Added driveway"
+        },
+        {
+            "value": "garage",
+            "name": "Added garage"
+        },
+        {
+            "value": "comparable",
+            "name": "Comparable property sold for more"
+        },
+        {
+            "value": "valuation",
+            "name": "Recent valuation"
+        }
+    ],
+    "flatFloorList": [
+        {
+            "value": "1to3",
+            "name": "1st to 3rd floor"
+        },
+        {
+            "value": "3to10",
+            "name": "1st to 10th floor"
+        },
+        {
+            "value": "above10",
+            "name": "Above 10th floor"
+        }
+    ],
+    "tenureList": [
+        {
+            "value": "freehold",
+            "name": "Freehold"
+        },
+        {
+            "value": "shareOfFreehold",
+            "name": "Share of freehold"
+        },
+        {
+            "value": "leasehold",
+            "name": "Leasehold"
+        }
+    ],
+    "constructionList": [
+        {
+            "value": "conventionalConstruction",
+            "name": "Conventional construction"
+        },
+        {
+            "value": "concrete",
+            "name": "Concrete"
+        },
+        {
+            "value": "wood",
+            "name": "Wood"
+        }
+    ],
+    "residencyList": [
+        {
+            "value": "mainResidence",
+            "name": "Main residence"
+        },
+        {
+            "value": "secondHome",
+            "name": "Second home"
+        }
+    ]
+}

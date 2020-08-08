@@ -1,0 +1,81 @@
+{
+  "testFluentLead": {
+    "leadid": "2069",
+    "campaignid": "Web01-Domun-A3M-Q4",
+    "nextcontact": "2019-11-22T11:30:00Z",
+    "registration": {
+      "addressDetails": {
+          "addressOnOneLine": "62 Somewhere, Far, Far Far, Away",
+          "address1": "62 Somewhere",
+          "address2": "Far",
+          "address3": "Far Away",
+          "address4": "Why 4 lines",
+          "bedrooms": "1",
+          "cityTown": "Birmingham",
+          "correctedValuation": "",
+          "correctionReason": "",
+          "country": null,
+          "county": "",
+          "dateMovedIn": "2009-12-21",
+          "locality": "",
+          "postcode": "F14 4FF",
+          "propertyType": "Bungalow",
+          "purchasePrice": 0,
+          "receptions": "2",
+          "valuation": 720000,
+          "avmDetails": {
+            "ClientReference": "casafiTESTAvm",
+            "ConfidenceBand": "high",
+            "Flags": null,
+            "Valuation": 720000,
+            "ValuationUpperRange": 755000,
+            "ValuationLowerRange": 684000
+          },
+          "employmentDetails": {
+              
+          },
+          "jointDetails": {
+              
+          },
+          "mortgageDetails": {
+              
+          },
+          "personalDetails": {
+            "email": "Jimmy.mcdonald1991@firmview.co.uk",
+            "dateOfBirth": "1991-12-28",
+            "firstname": "Jimmy",
+            "fullname": "Jimmy Orange Tango McDonald",
+            "phone": "07815286261"
+          }
+      }
+    },
+    "search": {
+      "currentProduct": {
+        "APRC": 4.6,
+        "broker": "Fluent Mortgages",
+        "brokerLink": "https://www.landc.co.uk/online/mortgage-finder?purchaseOrRemortgage=r&leadId=18170804",
+        "brokerLogo": "/img/broker-logos/fluent-mortgages-120-logo.png",
+        "brokerNumber": "01204 899500",
+        "brokerPrivacy": "https://www.landc.co.uk/about-us/privacy-statement/",
+        "brokerTerms": "https://www.landc.co.uk/about-us/terms-of-business-advised/",
+        "id": 2,
+        "img": "https://domun.co.uk/img/lender-logos/clydesdalebank.jpeg",
+        "initialRate": 1.54,
+        "initialTermCost": "£52,115.68",
+        "lenderFees": "£40.00",
+        "monthlyPayment": "£2,169.82",
+        "offerExpiry": "25/06/2019",
+        "ourBrokerCommission": "£240",
+        "ourCommission": "£250",
+        "provider": "Clydesdale Bank PLC",
+        "providerLink": "https://www.online-mortgages.hsbc.co.uk/1/2/!ut/p/z1/hY7BToNAEIafhiM7wy4F2hs0lqiNNCUG2AtZ2u1CpCyBrUSfXqIXm1Q7t5n5vy8_cMiBd-K9UcI0uhPtvBfcK5144cbRGp9jtvQxXNPU2e1SxNiB7DuAVxNitKcRm_8JBf4Pj7f536Z7_BNw1erqp2rYVSxQwAd5koMcyGWYz7Ux_biy0MJpmkg9Vgdy0OTyZuFZD0YJJUcLaz3ZRtui79sPC2-5aj0ayK8VUMzt_T_rBYt7AR9S4MDlWDbNEYqHtNxsk-zxZZOsqE8ZI0jcAKkXoOehy5jPltCfX_PPrczsfa--AHIxRFE!/",
+        "providerNumber": "0800 169 6333",
+        "providerPrivacy": "https://www.hsbc.co.uk/privacy-notice/",
+        "providerTerms": "https://lmsuk.com/ConveyancerZone/Pages/Download.aspx?dem_id=442390",
+        "representativeExample": "A repayment mortgage of £540,000.00 over 25 years, representative 4.6% APRC (Annual Percentage Rate of Charge). Total amount payable:£913,530.52. Includes interest of £373,490.52, Valuation fee of £0.00, Booking fee of  £0.00 and Administration fee of £0.00 Product fee of £40.00 Total fees of £40.00. Repayments: 26 monthly repayments of £2,169.82 at 1.54% (fixed), then 274 monthly repayments of £3,127.30 at £5.20% (variable).",
+        "savings": "£3,000",
+        "totalCost": "£913,530.52"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+// TODO: 
+
+npm install -g cli-real-favicon
+
+In the code below, replace TODO: Path to your master picture with the path of your master picture. For example, assets/images/master_picture.png.
+Generate your icons:
+mkdir outputDir
+real-favicon generate faviconDescription.json faviconData.json outputDir
+Inject the HTML code in your pages:
+real-favicon inject faviconData.json outputDir htmlFiles/*.html
+Check for updates (to be run from time to time, ideally by your continuous integration system):
+real-favicon check-for-update --fail-on-update faviconData.json
+
+
+{
+	"masterPicture": "TODO: Path to your master picture",
+	"iconsPath": "/img/icons",
+	"design": {
+		"ios": {
+			"pictureAspect": "noChange",
+			"assets": {
+				"ios6AndPriorIcons": false,
+				"ios7AndLaterIcons": false,
+				"precomposedIcons": false,
+				"declareOnlyDefaultIcon": true
+			}
+		},
+		"desktopBrowser": {},
+		"windows": {
+			"pictureAspect": "noChange",
+			"backgroundColor": "#da532c",
+			"onConflict": "override",
+			"assets": {
+				"windows80Ie10Tile": false,
+				"windows10Ie11EdgeTiles": {
+					"small": false,
+					"medium": true,
+					"big": false,
+					"rectangle": false
+				}
+			}
+		},
+		"androidChrome": {
+			"pictureAspect": "noChange",
+			"themeColor": "#ffffff",
+			"manifest": {
+				"display": "standalone",
+				"orientation": "notSet",
+				"onConflict": "override",
+				"declared": true
+			},
+			"assets": {
+				"legacyIcon": false,
+				"lowResolutionIcons": false
+			}
+		},
+		"safariPinnedTab": {
+			"pictureAspect": "blackAndWhite",
+			"threshold": 61.71875,
+			"themeColor": "#5bbad5"
+		}
+	},
+	"settings": {
+		"scalingAlgorithm": "Mitchell",
+		"errorOnImageTooSmall": false,
+		"readmeFile": false,
+		"htmlCodeFile": false,
+		"usePathAsIs": false
+	}
+}

@@ -1,0 +1,60 @@
+.dashboard{
+  .v-sheet {
+    border-radius: 20px;
+  }
+}
+
+#chartjs-tooltip {
+  opacity: 1;
+  position: relative;
+  background-color: #efeff7;
+  color: black;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 16px;
+  -webkit-transition: all .1s ease;
+  transition: all .1s ease;
+  pointer-events: none;
+  td, th {
+    text-align: left!important;
+    font-weight: bold;
+  }
+}
+
+.dashboard{
+  .container {
+    padding: 0px!important;
+  }  
+}
+
+.green-background {
+  border-radius: 42px 16px 16px!important;
+  background-color: #49d586!important;
+  color: white;
+  padding: 26px 40px!important;
+  text-align: left;
+  margin-bottom: 40px;
+  .v-btn {
+    background-color: white!important;
+    color: black!important;
+    border-radius: 5px!important;
+    margin: 0;
+  }
+}
+
+#dashboardGreeting {
+  align-items: center;
+  .title-icon {
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Safari 3-8 */
+    transform: rotate(-45deg);
+  }
+}
+
+@media only screen and (max-width: 570px) {
+  .subheading {
+    font-size: 10px!important;
+    margin-top: 8px;
+  }
+}

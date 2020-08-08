@@ -1,0 +1,45 @@
+.text-left {
+  text-align: left !important;
+}
+
+.small {
+  max-width: 450px;
+  margin: 10px auto;
+}
+.dashboard {
+  margin-top: 65px;
+}
+@media only screen and (max-width: 959px) {
+  .dashboard {
+    margin-top: 50px;
+  }
+}
+
+// .std-table input {
+//   width: 200px !important;
+//   min-width: 200px !important;
+//   padding: 5px;
+// }
+
+.std-table .sub-header {
+  background-color: transparent;
+}
+
+.std-table .sub-header h4 {
+  padding-top: 1.5em;
+}
+
+.std-table .std-btn {
+  margin: 0px;
+  padding: 0px;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+.std-divider-spacing {
+  margin-top: 1.8em;
+  padding-top: 0.8em;
+}
+
+.text-info {
+  line-height: 2;
+}

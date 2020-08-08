@@ -1,0 +1,422 @@
+{
+    "initialRatePeriodList": [
+        {
+            "value": "1",
+            "name": "1 year"
+        },
+        {
+            "value": "2",
+            "name": "2 years"
+        },
+        {
+            "value": "3",
+            "name": "3 years"
+        },
+        {
+            "value": "5",
+            "name": "5 years"
+        },
+        {
+            "value": "7",
+            "name": "7 years"
+        },
+        {
+            "value": "10",
+            "name": "10 years"
+        }
+    ],
+    "rateTypeList": [
+        {
+            "value": "fixed",
+            "name": "Fixed"
+        },
+        {
+            "value": "variable",
+            "name": "Variable"
+        }
+    ],
+    "repaymentTypeList": [
+        {
+            "value": "capitalAndRepayment",
+            "name": "Capital and Repayment"
+        },
+        {
+            "value": "interestOnly",
+            "name": "Interest Only"
+        }
+    ],
+    "lenderList": [
+        {
+            "value": "360",
+            "name": "Accord Mortgages"
+        },
+        {
+            "value": "495",
+            "name": "Al Rayan Bank"
+        },
+        {
+            "value": "595",
+            "name": "Aldermore Bank PLC"
+        },
+        {
+            "value": "230",
+            "name": "Bank of China (UK)"
+        },
+        {
+            "value": "628",
+            "name": "Bank of Ireland"
+        },
+        {
+            "value": "115",
+            "name": "Barclays"
+        },
+        {
+            "value": "190",
+            "name": "Bath Inv. + B.Soc."
+        },
+        {
+            "value": "1089",
+            "name": "Bespoke BOI"
+        },
+        {
+            "value": "6",
+            "name": "Beverley"
+        },
+        {
+            "value": "274",
+            "name": "Bluestone Mortgages"
+        },
+        {
+            "value": "123",
+            "name": "BM Solutions"
+        },
+        {
+            "value": "183",
+            "name": "Buckinghamshire BSoc"
+        },
+        {
+            "value": "15",
+            "name": "Cambridge BS"
+        },
+        {
+            "value": "17",
+            "name": "Chelsea B Society"
+        },
+        {
+            "value": "297",
+            "name": "Chorley BS"
+        },
+        {
+            "value": "163",
+            "name": "Clydesdale Bank PLC"
+        },
+        {
+            "value": "1058",
+            "name": "Coutts Bank"
+        },
+        {
+            "value": "28",
+            "name": "Coventry"
+        },
+        {
+            "value": "37",
+            "name": "Coventry BS-Godiva"
+        },
+        {
+            "value": "30",
+            "name": "Darlington"
+        },
+        {
+            "value": "828",
+            "name": "Dudley B Society"
+        },
+        {
+            "value": "187",
+            "name": "Earl Shilton B.Soc"
+        },
+        {
+            "value": "48",
+            "name": "Ecology B.Soc"
+        },
+        {
+            "value": "74",
+            "name": "Family Building Soc"
+        },
+        {
+            "value": "711",
+            "name": "First Direct"
+        },
+        {
+            "value": "796",
+            "name": "Fleet Mortgages"
+        },
+        {
+            "value": "786",
+            "name": "Foundation HomeLoans"
+        },
+        {
+            "value": "198",
+            "name": "Furness B.Soc"
+        },
+        {
+            "value": "42",
+            "name": "Halifax"
+        },
+        {
+            "value": "208",
+            "name": "Hanley Economic"
+        },
+        {
+            "value": "45",
+            "name": "Harpenden"
+        },
+        {
+            "value": "50",
+            "name": "Hinckley + Rugby BS"
+        },
+        {
+            "value": "51",
+            "name": "Holmesdale B.Soc"
+        },
+        {
+            "value": "154",
+            "name": "HSBC Direct"
+        },
+        {
+            "value": "344",
+            "name": "HSBC Intermediary"
+        },
+        {
+            "value": "53",
+            "name": "Ipswich"
+        },
+        {
+            "value": "220",
+            "name": "Kensington"
+        },
+        {
+            "value": "54",
+            "name": "Kent Reliance"
+        },
+        {
+            "value": "57",
+            "name": "Leeds B Society"
+        },
+        {
+            "value": "934",
+            "name": "Leeds Retention"
+        },
+        {
+            "value": "803",
+            "name": "Leek United BS"
+        },
+        {
+            "value": "142",
+            "name": "Lloyds Bank"
+        },
+        {
+            "value": "61",
+            "name": "Loughborough B.S."
+        },
+        {
+            "value": "791",
+            "name": "Magellan Homeloans"
+        },
+        {
+            "value": "63",
+            "name": "Mansfield"
+        },
+        {
+            "value": "64",
+            "name": "Market Harborough"
+        },
+        {
+            "value": "65",
+            "name": "Marsden"
+        },
+        {
+            "value": "627",
+            "name": "MBS Lending Ltd"
+        },
+        {
+            "value": "66",
+            "name": "Melton Mowbray"
+        },
+        {
+            "value": "724",
+            "name": "Metro Bank Plc"
+        },
+        {
+            "value": "71",
+            "name": "Monmouthshire"
+        },
+        {
+            "value": "81",
+            "name": "N+P"
+        },
+        {
+            "value": "75",
+            "name": "Nationwide B.Soc"
+        },
+        {
+            "value": "619",
+            "name": "NatWest Direct"
+        },
+        {
+            "value": "816",
+            "name": "NatWest Exclusive"
+        },
+        {
+            "value": "207",
+            "name": "NatWest Intermediary"
+        },
+        {
+            "value": "76",
+            "name": "Newbury"
+        },
+        {
+            "value": "77",
+            "name": "Newcastle BS"
+        },
+        {
+            "value": "82",
+            "name": "Nottingham"
+        },
+        {
+            "value": "245",
+            "name": "Paragon Bank"
+        },
+        {
+            "value": "937",
+            "name": "Paragon Residential"
+        },
+        {
+            "value": "86",
+            "name": "Penrith"
+        },
+        {
+            "value": "159",
+            "name": "Pepper Money"
+        },
+        {
+            "value": "40",
+            "name": "Platform BTL"
+        },
+        {
+            "value": "769",
+            "name": "Platform Mainstream"
+        },
+        {
+            "value": "59",
+            "name": "Post Office Direct"
+        },
+        {
+            "value": "351",
+            "name": "Precise Mortgages"
+        },
+        {
+            "value": "90",
+            "name": "Principality"
+        },
+        {
+            "value": "23",
+            "name": "Progressive B.Soc."
+        },
+        {
+            "value": "31",
+            "name": "RBS Direct"
+        },
+        {
+            "value": "95",
+            "name": "Saffron B.Society"
+        },
+        {
+            "value": "1",
+            "name": "Santander"
+        },
+        {
+            "value": "156",
+            "name": "Scottish B.Soc"
+        },
+        {
+            "value": "181",
+            "name": "Scottish Widows Bank"
+        },
+        {
+            "value": "760",
+            "name": "Secure Trust Bank"
+        },
+        {
+            "value": "140",
+            "name": "Skipton B.Society"
+        },
+        {
+            "value": "189",
+            "name": "Stafford Railway BS"
+        },
+        {
+            "value": "132",
+            "name": "Teachers B Society"
+        },
+        {
+            "value": "503",
+            "name": "Tesco Bank"
+        },
+        {
+            "value": "393",
+            "name": "The Mortgage Lender"
+        },
+        {
+            "value": "168",
+            "name": "The Mortgage Works"
+        },
+        {
+            "value": "105",
+            "name": "Tipton + Coseley"
+        },
+        {
+            "value": "313",
+            "name": "TSB - Intermediaries"
+        },
+        {
+            "value": "129",
+            "name": "TSB Direct"
+        },
+        {
+            "value": "175",
+            "name": "Vernon BS"
+        },
+        {
+            "value": "80",
+            "name": "Virgin Money PLC"
+        },
+        {
+            "value": "560",
+            "name": "West Bromwich B. Soc"
+        },
+        {
+            "value": "116",
+            "name": "Yorkshire B.Soc"
+        },
+        {
+            "value": "259",
+            "name": "Yorkshire Bank"
+        },
+        {
+            "value": "1048",
+            "name": "Zephyr Homeloans"
+        },
+        {
+            "value": "267",
+            "name": "First Trust"
+        },
+        {
+            "value": "661",
+            "name": "Danske Bank"
+        },
+        {
+            "value": "613",
+            "name": "Postoffice"
+        }
+    ]
+}
